@@ -1,0 +1,14 @@
+This repository contains code and data associated with the Coblentz and DeLong manuscript 'Estimating predator functional repsonses
+using the times between prey captures'. This repository contains two main folders: 'Code for Simulations' and 'Jumping Spider data and code
+for analysis'.
+
+'Code for Simulations' contains R code for simulating data sets of the times between prey captures of a predator given values of the 
+predator's space clearance rate and handling times. It also contains code for analyzing these simulated data sets using either 
+Bayesian or Maximum Likelihood methods. Using this code, one can determine how well the time-to-capture method is likely to work to
+estimate predator functional responses in their system with a guess of the neighborhood in which their predator's space clearance rate
+and handling time is in.
+
+'Jumping Spider data and code for analysis' contains the jumping spider data analyzed in the manscript and code to fit functional responses
+to the data in either a Bayesian or Maximum Likelihood framework. This code should provide a template for fitting functional responses to 
+time-to-capture data.
+
