@@ -1,0 +1,4 @@
+This folder contains code to simulate time-to-capture data and to analyze that data. This can be used to determine
+whether or not the time-to-capture method is likely to work for a particular system and to set expectations on how 
+well the method is likely to be able to estimate functional response parameters given ball park estimates of what 
+the functional response parameters are likely to be for a given predator.
