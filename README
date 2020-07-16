@@ -3,7 +3,7 @@ using the times between prey captures'. This repository contains two main folder
 for analysis'.
 
 'Code for Simulations' contains R code for simulating data sets of the times between prey captures of a predator given values of the 
-predator's space clearance rate and handling times. It also contains code for analyzing these simulated data sets using either 
+predator's space clearance rate and handling times. It also contains code for analyzing these simulated data sets using either
 Bayesian or Maximum Likelihood methods. Using this code, one can determine how well the time-to-capture method is likely to work to
 estimate predator functional responses in their system with a guess of the neighborhood in which their predator's space clearance rate
 and handling time is in.
