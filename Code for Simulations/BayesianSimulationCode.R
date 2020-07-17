@@ -60,7 +60,7 @@ tablevalues <- function(data, truea, trueh){
 
 ### example of use
 
-tablevalues(example)
+tablevalues(example, truea = 0.5, trueh = 0.01)
 
 
 
